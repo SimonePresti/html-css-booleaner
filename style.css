@@ -1,16 +1,80 @@
+.main {
+    width: 1200px;
+    margin-left: 10px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
 .header {
     background-image: url(pattern.png);
     height: 100px;
-    width: 800px;
+    width: 1200px;
     background-repeat: repeat;
-    background-color: rgb(135, 183, 250);
+    background-color: rgb(97, 163, 255);
     background-size: contain;
+    background-size: 32%;
 }
 
 
 .font-grey {
     color: gray;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contenitor {
+    margin-top: 180px;
+   
+}
+
+.contenitor2 {
+    background-image: url(monitor.jpg);
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 220px;
+    color: aliceblue;
+    font-size: larger;
+
+
+     
+}
+
+.contenitor3 {
+    background-image: url(graph.jpg);
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 200px;
+    color: aliceblue;
+    font-size: larger;
+
+
+     
+}
+.font-small {
+    font-size: small;
+}
+
+
+.tabletitle {
+    background-color: rgb(61, 164, 228);
+    width: 400px;
+    text-align: left;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+.tablebody {
+    background-color: lightblue;
+    height: 60px;
+
+    
+
+}
+
+.background-color {
+    background-color: yellow;
 }
 
 #logo {
@@ -26,3 +90,6 @@
     
 }
 
+.yellow {
+    
+}
