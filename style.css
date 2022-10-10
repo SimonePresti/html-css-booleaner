@@ -1,0 +1,28 @@
+.header {
+    background-image: url(pattern.png);
+    height: 100px;
+    width: 800px;
+    background-repeat: repeat;
+    background-color: rgb(135, 183, 250);
+    background-size: contain;
+}
+
+
+.font-grey {
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#logo {
+    text-align: left;
+    width: 200px;
+    margin-left: 0;
+    margin-top: 40px;
+}
+
+
+#font-lightblu {
+    color: deepskyblue;
+    
+}
+
