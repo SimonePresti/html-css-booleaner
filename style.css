@@ -1,7 +1,10 @@
 .main {
-    width: 1200px;
+    padding-left: 200px;
+    width: 1100px;
     margin-left: 10px;
+    margin-right: 10px;
     text-align: left;
+    
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -9,17 +12,16 @@
 .header {
     background-image: url(pattern.png);
     height: 100px;
-    width: 1200px;
+    width: 1100px;
     background-repeat: repeat;
     background-color: rgb(97, 163, 255);
     background-size: contain;
-    background-size: 32%;
+    background-size: 35%;
 }
 
 
 .font-grey {
     color: gray;
-    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .contenitor {
@@ -87,9 +89,5 @@
 
 #font-lightblu {
     color: deepskyblue;
-    
-}
-
-.yellow {
     
 }
